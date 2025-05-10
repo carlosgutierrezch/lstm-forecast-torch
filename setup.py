@@ -5,7 +5,7 @@ with open('readme.md','r',encoding='utf-8') as f:
     
 __version__='0.0.0'
 
-REPO_NAME= 'LSTM-Forecast'
+REPO_NAME= 'lstm-forecast-torch'
 AUTHOR_USER_NAME= 'AETNA-68'
 SRC_REPO= 'TimeSeriesForecast'
 AUTHOR_EMAIL='aetna68corp@gmail.com'
